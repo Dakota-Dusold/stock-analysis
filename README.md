@@ -12,31 +12,34 @@ This code was refactored using:
 
 
 ### 2017
-![](Resources/Stocks2017.png)
-![](Resources/VBA_Challenge_2017.png)
-    - In 2017, the majority of Steve's selected green energy stocks performed really well. Half of these stocks had a return of 50% or more! Theese look like promising investmeents so far.
+![](https://github.com/Dakota-Dusold/stock-analysis/blob/main/Resources/Stocks2017.PNG)
+![](https://github.com/Dakota-Dusold/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
     
-    - The All Stocks Analysis Refactored Macro ran almost half a second faster for 2017 (.4453125 seconds to be exact). This will save Steve a lot of time when he uses this macro to analyze thousands of stocks as opposed to 12 stocks.
+   - In 2017, the majority of Steve's selected green energy stocks performed really well. Half of these stocks had a return of 50% or more! Theese look like promising investmeents so far.
+    
+   - The All Stocks Analysis Refactored Macro ran almost half a second faster for 2017 (.4453125 seconds to be exact). This will save Steve a lot of time when he uses this macro to analyze thousands of stocks as opposed to 12 stocks.
 
 ### 2018
-![](Resources/Stocks2018.png)
-![](Resources/VBA_Challenge_2018.png)
-    - In 2018, only two of Steve's selected green energy stocks had a return. In addition, most of these stocks had less total daily volume meaning they were traded less. It was not a good year for these stocks, however, Steve should consider looking into the two stocks that had returns in both years: ENPH and RUN.
+![](https://github.com/Dakota-Dusold/stock-analysis/blob/main/Resources/Stocks2018.PNG)
+![](https://github.com/Dakota-Dusold/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+   
+   - In 2018, only two of Steve's selected green energy stocks had a return. In addition, most of these stocks had less total daily volume meaning they were traded less. It was not a good year for these stocks, however, Steve should consider looking into the two stocks that had returns in both years: ENPH and RUN.
     
-    -The All Stocks Analysis Refactored Macro also ran almost half a second faster for 2018 (.4550781 seconds to be exact). This proves consistency in our macro when running it across different data sets.
+   - The All Stocks Analysis Refactored Macro also ran almost half a second faster for 2018 (.4550781 seconds to be exact). This proves consistency in our macro when running it across different data sets.
 
 ## Summary Statement
     1. The Advantages of Refactoring Code:
-        -Makes code more readable
-        -Speeds up code run time
-        -"It changes the way a developer thinks about the implementation when not refactoring." [Link to source!](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc)
+        - Makes code more readable
+        - Speeds up code run time
+        - "It changes the way a developer thinks about the implementation when not refactoring." 
+        ![Link to source!](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc) 
        The Disadvantages of Refactoring Code:
-        -It is time-consuming
-        -May not actually make the code run time faster
-        -The time spent refactoring needs to be worth the time that will be saved by the faster code 
+        - It is time-consuming
+        - May not actually make the code run time faster
+        - The time spent refactoring needs to be worth the time that will be saved by the faster code 
 
     2. The Pros of Refactoring Original VBA Code:
-        -It helped me work through what we learned in this module
-        -The new code is more readable and runs faster as proven by the timestamps 
+        - It helped me work through what we learned in this module
+        - The new code is more readable and runs faster as proven by the timestamps 
        The Cons of Refactoring Original VBA Code:
-        -At one point I got so confused that I deleted everything and started from scratch
+        - At one point I got so confused that I deleted everything and started from scratch
