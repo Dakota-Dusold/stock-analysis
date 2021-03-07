@@ -1,6 +1,6 @@
 # stock-analysis
 ## Overview of the Project
-    - We have been asked to rebuild a workbook for our client Steve to analyze more stocks than previously requested. This refactoring of the code will improve upon our current macro which analyzes stocks and gives us informations such as their total daily volume for the year and their return percentages for the year. If Steve wants to run an analysis on the entire stock market for his parents, we will need to save him some time! We can do this by creeating indexes and variables to simplify the code.
+    We have been asked to rebuild a workbook for our client Steve to analyze more stocks than previously requested. This refactoring of the code will improve upon our current macro which analyzes stocks and gives us informations such as their total daily volume for the year and their return percentages for the year. If Steve wants to run an analysis on the entire stock market for his parents, we will need to save him some time! We can do this by creeating indexes and variables to simplify the code.
 ## Results
 ### Refactored Code
 This code was refactored using:
