@@ -4,23 +4,25 @@
 ## Results
 ### Refactored Code
 This code was refactored using:
-'''
-The creation of a tickerIndex variable that was set = 0 
-Next we used output arrays for the tickerIndex to access for our outputs
-Then we used for loops to loop through our spreadsheets using our tickerIndex
-Finally we used if-then statements to find our starting and ending prices and to increase tickerIndex
-'''
+
+    -The creation of a tickerIndex variable that was set = 0 
+    -Next we used output arrays for the tickerIndex to access for our outputs
+    -Then we used for loops to loop through our spreadsheets using our tickerIndex
+    'Finally we used if-then statements to find our starting and ending prices and to increase tickerIndex
+
 
 ### 2017
 ![](Resources/Stocks2017.png)
 ![](Resources/VBA_Challenge_2017.png)
     - In 2017, the majority of Steve's selected green energy stocks performed really well. Half of these stocks had a return of 50% or more! Theese look like promising investmeents so far.
+    
     - The All Stocks Analysis Refactored Macro ran almost half a second faster for 2017 (.4453125 seconds to be exact). This will save Steve a lot of time when he uses this macro to analyze thousands of stocks as opposed to 12 stocks.
 
 ### 2018
 ![](Resources/Stocks2018.png)
 ![](Resources/VBA_Challenge_2018.png)
     - In 2018, only two of Steve's selected green energy stocks had a return. In addition, most of these stocks had less total daily volume meaning they were traded less. It was not a good year for these stocks, however, Steve should consider looking into the two stocks that had returns in both years: ENPH and RUN.
+    
     -The All Stocks Analysis Refactored Macro also ran almost half a second faster for 2018 (.4550781 seconds to be exact). This proves consistency in our macro when running it across different data sets.
 
 ## Summary Statement
