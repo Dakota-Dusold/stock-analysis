@@ -1,6 +1,10 @@
 # stock-analysis
 ## Overview of the Project
-    We have been asked to rebuild a workbook for our client Steve to analyze more stocks than previously requested. This refactoring of the code will improve upon our current macro which analyzes stocks and gives us informations such as their total daily volume for the year and their return percentages for the year. If Steve wants to run an analysis on the entire stock market for his parents, we will need to save him some time! We can do this by creeating indexes and variables to simplify the code.
+    We have been asked to rebuild a workbook for our client Steve to analyze more stocks than previously requested. 
+    This refactoring of the code will improve upon our current macro which analyzes stocks and gives us informations. 
+    Such as: their total daily volume for the year and their return percentages for the year. 
+    If Steve wants to run an analysis on the entire stock market for his parents, we will need to save him some time! 
+    We can do this by creeating indexes and variables to simplify the code.
 ## Results
 ### Refactored Code
 This code was refactored using:
@@ -31,8 +35,9 @@ This code was refactored using:
     1. The Advantages of Refactoring Code:
         - Makes code more readable
         - Speeds up code run time
-        - "It changes the way a developer thinks about the implementation when not refactoring." 
-        ![Link to source!](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc) 
+        - Theoretically, programmers who refactor continuously make sections of code more attractive with every change. 
+  [Link to source!](https://searchapparchitecture.techtarget.com/tip/Refactor-vs-rewrite-Deciding-what-to-do-with-problem-software)
+       
        The Disadvantages of Refactoring Code:
         - It is time-consuming
         - May not actually make the code run time faster
@@ -41,5 +46,6 @@ This code was refactored using:
     2. The Pros of Refactoring Original VBA Code:
         - It helped me work through what we learned in this module
         - The new code is more readable and runs faster as proven by the timestamps 
+
        The Cons of Refactoring Original VBA Code:
         - At one point I got so confused that I deleted everything and started from scratch
